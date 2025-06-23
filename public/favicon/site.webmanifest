@@ -1,0 +1,23 @@
+{
+  "name": "StarCraft 2 Co-op Commander Tier List",
+  "short_name": "SC2 Tier List",
+  "description": "Community-driven tier list for StarCraft 2 Co-op Commanders. Rate and view rankings for all commanders from Raynor to Zeratul.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#00BFFF",
+  "icons": [
+    {
+      "src": "/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["games", "entertainment", "starcraft", "tier list"],
+  "lang": "en-US"
+}

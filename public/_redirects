@@ -1,0 +1,7 @@
+# Netlify redirects file
+
+# Redirect domain aliases to primary domain
+https://www.coop.starcraftier.com/* https://coop.starcraftier.com/:splat 301!
+
+# Handle SPA routing - redirect all requests to index.html
+/* /index.html 200

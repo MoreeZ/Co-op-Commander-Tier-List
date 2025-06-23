@@ -1,0 +1,17 @@
+# StarCraft 2 Co-op Commander Tier List - robots.txt
+# https://coop.starcraftier.com
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow crawling of non-public URLs
+Disallow: /api/
+Disallow: /admin/
+Disallow: /dev/
+
+# Crawl delay for all bots
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://coop.starcraftier.com/sitemap.xml
