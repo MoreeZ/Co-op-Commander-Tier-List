@@ -60,10 +60,10 @@ const Header = () => {
         </Logo>
         <NavLinks role="navigation" aria-label="Main navigation">
           <NavLink to="/" active={location.pathname === '/' ? 1 : 0} aria-current={location.pathname === '/' ? 'page' : undefined}>
-            Community Tier List
+            Tier List
           </NavLink>
           <NavLink to="/create" active={location.pathname === '/create' ? 1 : 0} aria-current={location.pathname === '/create' ? 'page' : undefined}>
-            Create Your Tier List
+            Contribute
           </NavLink>
         </NavLinks>
       </Nav>

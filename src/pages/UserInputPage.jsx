@@ -440,15 +440,15 @@ const UserInputPage = () => {
     <PageContainer>
       <MetaTags data={breadcrumbData} />
       <SEO 
-        title="Create Your Co-op Commander Tier List" 
-        description="Create your personal StarCraft 2 Co-op Commander tier list. Rank commanders from S to F tier and contribute to the community rankings."
+        title="Contribute to the Co-op Commander Tier List" 
+        description="Contribute to the personal StarCraft 2 Co-op Commander tier list. Rank commanders from S to F tier and contribute to the community rankings."
       />
       <Title>
         Co-op Commander Tier List
       </Title>
       <Description>
-        Drag and drop the commanders to create your personal tier list for StarCraft II Co-op missions. 
-        Place each commander in the tier you believe they belong to, from S (strongest) to F (weakest). 
+        Drag and drop the commanders to contribute to the tier list for StarCraft II Co-op missions. 
+        Place each commander in the tier you believe they belong to. 
         Your submission will automatically contribute to the community tier list!
       </Description>
 
