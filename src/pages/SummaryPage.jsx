@@ -311,14 +311,14 @@ const SummaryPage = () => {
               <StatValue>{stats.totalSubmissions}</StatValue>
               <StatLabel>Total Submissions</StatLabel>
             </StatItem>
-            <StatItem>
+            {/* <StatItem>
               <StatValue>{stats.topCommander || 'N/A'}</StatValue>
               <StatLabel>Highest Rated Commander</StatLabel>
             </StatItem>
             <StatItem>
               <StatValue>{stats.bottomCommander || 'N/A'}</StatValue>
               <StatLabel>Lowest Rated Commander</StatLabel>
-            </StatItem>
+            </StatItem> */}
           </StatsContainer>
           
           <TierList 
