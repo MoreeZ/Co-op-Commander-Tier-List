@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     ViteSitemapPlugin({
       hostname: 'https://coop.starcraftier.com',
-      dynamicRoutes: ['/', '/create'],
+      dynamicRoutes: ['/', '/contribute'],
       lastmod: new Date().toISOString(),
       changefreq: 'weekly',
       priority: 0.8,

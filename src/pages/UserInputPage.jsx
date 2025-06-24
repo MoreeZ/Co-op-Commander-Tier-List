@@ -432,7 +432,7 @@ const UserInputPage = () => {
   // Create breadcrumb structured data for SEO
   const breadcrumbItems = [
     { name: "Home", path: "/" },
-    { name: "Create Tier List", path: "/create" }
+    { name: "Create Tier List", path: "/contribute" }
   ];
   const breadcrumbData = generateBreadcrumbData(breadcrumbItems);
   

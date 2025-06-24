@@ -62,7 +62,7 @@ const Header = () => {
           <NavLink to="/" active={location.pathname === '/' ? 1 : 0} aria-current={location.pathname === '/' ? 'page' : undefined}>
             Tier List
           </NavLink>
-          <NavLink to="/create" active={location.pathname === '/create' ? 1 : 0} aria-current={location.pathname === '/create' ? 'page' : undefined}>
+          <NavLink to="/contribute" active={location.pathname === '/contribute' ? 1 : 0} aria-current={location.pathname === '/contribute' ? 'page' : undefined}>
             Contribute
           </NavLink>
         </NavLinks>

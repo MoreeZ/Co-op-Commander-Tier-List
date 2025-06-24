@@ -17,7 +17,7 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<SummaryPage />} />
-            <Route path="/create" element={<UserInputPage />} />
+            <Route path="/contribute" element={<UserInputPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>
         </Layout>

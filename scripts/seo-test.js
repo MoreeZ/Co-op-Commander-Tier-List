@@ -174,7 +174,7 @@ function checkSitemap() {
   }
   
   // Check if sitemap contains required paths
-  const requiredPaths = ['/', '/create'];
+  const requiredPaths = ['/', '/contribute'];
   let allPathsExist = true;
   
   for (const urlPath of requiredPaths) {

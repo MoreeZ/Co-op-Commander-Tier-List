@@ -37,7 +37,7 @@ const Footer = () => {
         </Disclaimer>
         <div style={{ marginTop: '1rem', fontSize: '0.8rem' }}>
           <a href="https://coop.starcraftier.com" style={{ color: '#888', marginRight: '1rem' }}>Home</a>
-          <a href="https://coop.starcraftier.com/create" style={{ color: '#888', marginRight: '1rem' }}>Create Tier List</a>
+          <a href="https://coop.starcraftier.com/contribute" style={{ color: '#888', marginRight: '1rem' }}>Create Tier List</a>
           <a href="https://coop.starcraftier.com/sitemap.xml" style={{ color: '#888' }}>Sitemap</a>
         </div>
       </FooterContent>

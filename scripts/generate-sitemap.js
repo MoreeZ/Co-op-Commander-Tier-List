@@ -1,6 +1,6 @@
 /**
  * Script to generate a dynamic sitemap.xml for the StarCraft 2 Co-op Commander Tier List website
- * This script can be run during the build process to create an up-to-date sitemap
+ * This script can be run during the build process to contribute an up-to-date sitemap
  */
 
 import fs from 'fs';
@@ -25,7 +25,7 @@ const routes = [
     changefreq: 'daily'
   },
   {
-    path: '/create',
+    path: '/contribute',
     priority: '0.8',
     changefreq: 'weekly'
   }
