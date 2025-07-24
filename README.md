@@ -2,6 +2,8 @@
 
 A web application for crowdsourcing user opinions on the best commanders in StarCraft 2 Co-op missions. This project allows users to create and submit their personal tier lists, and view an aggregated community tier list based on all submissions.
 
+## URL: `https://coop.starcraftier.com`
+
 ## Features
 
 - **Community Summary Page**: View a non-editable tier list showing the community's aggregated rankings
